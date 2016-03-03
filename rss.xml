@@ -4,7 +4,7 @@
         <description><![CDATA[Yves Vandewoude's personal site]]></description>
         <link>https://thegrid.ai/yves-vandewoude-s-personal-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 15:44:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 16:07:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yves-vandewoude-s-personal-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[
@@ -32,10 +32,10 @@ Yves</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9a322386b7e
         </item>
         <item>
             <title><![CDATA[Qmino]]></title>
-            <description><![CDATA[<article><h1>Qmino</h1><p>Qmino was founded by Peter Rigole, Bert Vanhooff and myself in 2008. We are a software development firm and develop complex tailor-made software for our customers, typically with a complex backend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd34daed1045e43d9feb2b2cb38f85df88745b6e.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Qmino</h1><p>Qmino was founded by Peter Rigole, Bert Vanhooff and myself in 2008. We are a software development firm and develop complex tailor-made software for our customers, typically with a complex backend.</p></article>]]></description>
             <link>https://thegrid.ai/yves-vandewoude-s-personal-site/qmino/index.html</link>
             <guid isPermaLink="false">226a620c-9f26-4ebc-80e1-daa663c16c20</guid>
-            <pubDate>Thu, 03 Mar 2016 15:44:10 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2016 16:07:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
