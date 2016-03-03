@@ -4,7 +4,7 @@
         <description><![CDATA[Yves Vandewoude's personal site]]></description>
         <link>https://thegrid.ai/yves-vandewoude-s-personal-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 16:50:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 16:55:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yves-vandewoude-s-personal-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[
@@ -24,10 +24,10 @@ Welcome to my website!</h1><p>I'm a software engineer & architect based in Leuve
         </item>
         <item>
             <title><![CDATA[Qmino]]></title>
-            <description><![CDATA[<article><h1>Qmino</h1><p>I have a company. Qmino. Since 2008 we are a software development firm and develop complex tailor-made software for our customers, typically with a complex backend.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Qmino</h1><p>Since its inception in 2008, Qmino develops complex tailor-made software for our customers, typically with a complex backend. We also develop and commercialize a REST-documentation tool: Miredot.</p></article>]]></description>
             <link>https://thegrid.ai/yves-vandewoude-s-personal-site/qmino/index.html</link>
             <guid isPermaLink="false">226a620c-9f26-4ebc-80e1-daa663c16c20</guid>
-            <pubDate>Thu, 03 Mar 2016 16:43:49 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2016 16:54:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
