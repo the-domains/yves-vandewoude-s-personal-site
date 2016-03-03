@@ -1,0 +1,28 @@
+name: "Yves Vandewoude's personal site"
+favicon: null
+layout_spectrum: 0.568631652276963
+typography_spectrum: 0.5568243656307459
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9985709658358246
+  lightness: 0.9458084376528859
+  saturation: 0.8960896527860314
+  rhythmicContrast: 0.47326891287229955
+purpose: []
